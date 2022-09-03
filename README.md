@@ -23,7 +23,7 @@ PyQt5     version(5.15.7)
 `pip install -r requeriments.txt`
 
 ### Overview to app
-!["adasd"](https://media.giphy.com/media/7kb6EwRwnHICxbtpoI/giphy.gif)
+!["adasd"](gifs\home.gif)
 
 ## Labeling Page
 Mouse events of the Pyqt5 library are used
@@ -32,7 +32,7 @@ When the "save" button is clicked after the labeling process is completed,
 
 It creates a label file in ".xml" format with the same file path as the images and the same name as the image.
 
-!["adasd"](C:\Users\Hakan\Desktop\hakanka\project3_exe\gifs\label.gif)
+!["adasd"](gifs\label.gif)
 
 
 ## Home Page
