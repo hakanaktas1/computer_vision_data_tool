@@ -48,7 +48,7 @@ To create a new AI project file on the desktop, write the project name and click
 
 All images in the dataset are resized according to the entered values
 
-!["adasd"](C:\Users\Hakan\Desktop\hakanka\project3_exe\gifs\resize.gif)
+!["adasd"](https://media.giphy.com/media/7kb6EwRwnHICxbtpoI/giphy.mp4)
 
 
 ## Crop Page
