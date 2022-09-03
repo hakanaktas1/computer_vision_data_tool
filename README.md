@@ -41,7 +41,7 @@ To create a new AI project file on the desktop, write the project name and click
 
 "images/train" and "images/train" paths are automatically created in the file.
 
-!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/home.gif)
+![](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/home.gif)
 
 
 ## Resize Page
