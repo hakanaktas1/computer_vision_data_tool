@@ -23,7 +23,7 @@ PyQt5     version(5.15.7)
 `pip install -r requeriments.txt`
 
 ### Overview to app
-!["adasd"](gifs\home.gif)
+![](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/firstgif.gif)
 
 ## Labeling Page
 Mouse events of the Pyqt5 library are used
