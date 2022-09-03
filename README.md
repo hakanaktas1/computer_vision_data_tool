@@ -32,7 +32,7 @@ When the "save" button is clicked after the labeling process is completed,
 
 It creates a label file in ".xml" format with the same file path as the images and the same name as the image.
 
-!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/home.gif)
+!["adasd"]()
 
 
 ## Home Page
@@ -41,7 +41,7 @@ To create a new AI project file on the desktop, write the project name and click
 
 "images/train" and "images/train" paths are automatically created in the file.
 
-!["adasd"](C:\Users\Hakan\Desktop\hakanka\project3_exe\gifs\home.gif)
+!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/home.gif)
 
 
 ## Resize Page
