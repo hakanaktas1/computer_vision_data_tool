@@ -23,7 +23,7 @@ PyQt5     version(5.15.7)
 `pip install -r requeriments.txt`
 
 ### Overview to app
-!["adasd"](blob:https://giphy.com/87ec8e0a-5b1c-4b44-836f-f9e9effe0f0b)
+!["adasd"](https://media.giphy.com/media/7kb6EwRwnHICxbtpoI/giphy.gif)
 
 ## Labeling Page
 Mouse events of the Pyqt5 library are used
