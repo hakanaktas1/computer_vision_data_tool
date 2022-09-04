@@ -33,7 +33,7 @@ When the "save" button is clicked after the labeling process is completed,
 
 It creates a label file in ".xml" format with the same file path as the images and the same name as the image.
 
-!["adasd"]()
+![](https://gfycat.com/embarrassedpartialhoki)
 
 
 ## Home Page
