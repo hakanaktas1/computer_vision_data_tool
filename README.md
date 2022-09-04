@@ -49,7 +49,7 @@ To create a new AI project file on the desktop, write the project name and click
 
 All images in the dataset are resized according to the entered values
 
-!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/resize_1)
+!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/resize_1.gif)
 
 
 ## Crop Page
