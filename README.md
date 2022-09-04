@@ -23,7 +23,7 @@ PyQt5     version(5.15.7)
 `pip install -r requeriments.txt`
 
 ### Overview to app
-![](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/firstgif.gif)
+![](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/first_1.gif)
 
 
 ## Labeling Page
@@ -42,37 +42,37 @@ To create a new AI project file on the desktop, write the project name and click
 
 "images/train" and "images/train" paths are automatically created in the file.
 
-![](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/home.gif)
+![](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/home_1.gif)
 
 
 ## Resize Page
 
 All images in the dataset are resized according to the entered values
 
-!["adasd"](https://media.giphy.com/media/7kb6EwRwnHICxbtpoI/giphy.mp4)
+!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/resize_1)
 
 
 ## Crop Page
 
 All images in the dataset are cropped according to the entered values
 
-!["adasd"](C:\Users\Hakan\Desktop\hakanka\project3_exe\gifs\crop.gif)
+!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/crop_1.gif)
 
 
 ## Rotate Page
 
 All images in the dataset are increased brightness according to the entered values
 
-!["adasd"](C:\Users\Hakan\Desktop\hakanka\project3_exe\gifs\rotate.gif)
+!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/rotate_1.gif)
 
 
 ## Brightness Page
 
 All images in the dataset are increased brightness according to the entered values
 
-!["adasd"](C:\Users\Hakan\Desktop\hakanka\project3_exe\gifs\brig.gif)
+!["adasd"](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/brig_1.gif)
 
-## Brightness Page
+## Split Page
 
 All data labeled with the entered rate value are randomly distributed in the train and test folders.
 
