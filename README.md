@@ -33,7 +33,7 @@ When the "save" button is clicked after the labeling process is completed,
 
 It creates a label file in ".xml" format with the same file path as the images and the same name as the image.
 
-![](https://gfycat.com/embarrassedpartialhoki)
+![](https://github.com/hakanaktas1/computer_vision_data_tool/blob/main/gifs/labelqeqweqe.gif)
 
 
 ## Home Page
